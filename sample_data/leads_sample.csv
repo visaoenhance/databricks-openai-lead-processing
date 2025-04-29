@@ -1,0 +1,4 @@
+first_name,last_name,email,phone,lead_source,company
+John,Doe,,1234567890,web,Acme Corp
+Jane,Smith,,5551234567,referral,Smith Inc
+Bob,Johnson,,9876543210,event,Johnson & Co
